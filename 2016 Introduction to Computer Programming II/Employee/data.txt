@@ -1,0 +1,6 @@
+1	John Smith	333-44-9982	800.50
+2	Larry Lippert 	449-22-2340	30	8.34
+2	Sally Kelly	400-33-5571	40	10.00
+1	Smith Wilson	880-25-3412	1250	
+2	Darren Weber	594-98-3411	50	10.00
+1	Ashley Parker	888-33-3399 1195
